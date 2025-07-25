@@ -3,7 +3,7 @@ A simple bot for analyzing business intelligence in Hong Kong
 
 # 🧠 Data & BI Showcase by Vibe Coding
 
-Welcome to my portfolio! I'm passionate about transforming raw data into actionable insights. This repository highlights key projects and techniques I've developed using tools like **Power BI**, **Tableau**, **SQL**, and **Python**—with enterprise-level implementations in **Oracle PL/SQL** and **MS SSIS**.
+Welcome to my portfolio! I'm passionate about transforming raw data into actionable insights. This repository highlights key projects and techniques I've developed using tools like **Power BI**,**Qlik Sense**, **Tableau**, **SQL**, and **Python**—with enterprise-level implementations in **Oracle PL/SQL** and **MS SSIS**.
 
 ## 🔍 What You'll Find Here
 - 📊 BI Dashboards (Sales, Finance, Customer Analytics)
