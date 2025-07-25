@@ -19,5 +19,5 @@ Welcome to my portfolio! I'm passionate about transforming raw data into actiona
 - MS SSIS, Data Integration & ETL
 
 ## 📫 Get in Touch
-Feel free to reach out or collaborate via [LinkedIn](https://www.linkedin.com/in/vick-lam-data-bi/) 
+Feel free to reach out or collaborate via [LinkedIn](https://www.linkedin.com/in/vick-lam-data-bi/) or [email](mailto:vic1608@gmail.com) me. 
 
