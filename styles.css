@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+  color: white;
+}
+
+header, footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+section {
+  margin: 2rem;
+  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+}
+canvas {
+  background-color: white;
+  border-radius: 6px;
+  padding: 1rem;
+}
+a {
+  color: #80dfff;
+  text-decoration: none;
+}
