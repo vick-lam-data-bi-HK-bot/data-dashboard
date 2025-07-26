@@ -22,5 +22,5 @@ You'll also find emerging topics related to **AI applications** and **AI agents*
 - MS SSIS, Data Integration & ETL
 
 ## 📫 Get in Touch
-Feel free to reach out or collaborate via [LinkedIn](https://www.linkedin.com/in/vick-lam-data-bi/) or [email](mailto:vic1608@gmail.com) me. 
+Feel free to reach out or collaborate via [LinkedIn](https://www.linkedin.com/in/vick-lam-data-bi/) . 
 
