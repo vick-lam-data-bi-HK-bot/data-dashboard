@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hong Kong Typhoon Dashboard (2014–2024)</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <h1>🌪️ Typhoon Signal No. 8+ Dashboard</h1>
+    <p>Tracking major storms in Hong Kong from 2014 to 2024</p>
+  </header>
 
+  <main>
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>This dashboard visualizes typhoon signals No. 8 and above issued in Hong Kong over the past decade.</p>
+    </section>
+
+    <section id="chart-container">
+      <h2>📊 Signal Counts Per Year</h2>
+      <canvas id="typhoonChart" width="400" height="200"></canvas>
+    </section>
+
+    <section id="notables">
+      <h2>🌀 Notable Typhoons</h2>
+      <ul>
+        <li>Saola (2023): Super Typhoon, Signal No. 10</li>
+        <li>Mangkhut (2018): Record-breaking devastation</li>
+        <li>Hato (2017): Extensive damage in Hong Kong & Macau</li>
+      </ul>
+    </section>
+
+    <section id="sources">
+      <h2>📚 Sources</h2>
+      <p>Data from <a href="https://www.hko.gov.hk/en/informtc/tcMain
